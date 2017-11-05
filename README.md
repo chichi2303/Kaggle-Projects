@@ -6,4 +6,4 @@ List of my projects:
 
 * [Climate Change](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/Climate%20Change) 
 
-* [Spooky Author Identification](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/Climate%20Change)
+* [Spooky Author Identification](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/Climate%20Change) - In Progress ... 
