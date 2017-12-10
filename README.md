@@ -9,3 +9,6 @@ List of my projects:
 * [Climate Change](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/Climate%20Change) 
 
 * [Spooky Author Identification](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/Climate%20Change) - In Progress ... 
+
+
+* [World Happiness 2015](https://github.com/chinguyen2303/Kaggle-Projects/tree/master/World%20Happiness%202015) 
